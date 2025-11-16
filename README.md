@@ -1,4 +1,4 @@
-## The School Data Manifesto: Insights for Impact
+## The School Data: Insights for Impact
 
 **Our belief:** Data should drive action, not just fill reports.  
 We commit to a **report → act → review** cycle so every insight leads to real change for students, staff, and the school community.
