@@ -1,7 +1,7 @@
 ## The School Data: Insights for Impact
 
 **Our belief:** Data should drive action, not just fill reports.  
-We commit to a **report → act → review** cycle so every insight leads to real change for students, staff, and the school community.
+**report → act → review** cycle so every insight leads to real change for students, staff, and the school community.
 
 ---
 
@@ -20,8 +20,8 @@ Every data point must close a decision gap. If it doesn’t, we don’t collect 
 **Collect once, use many.** We pull from existing systems first (e.g., SMS, LMS, assessment platforms) rather than creating new forms.  
 New entries are limited to quick, embedded inputs (e.g., toggle, 1–3 tags) only when essential. No new weekly forms.
 
-**3. Tailor Insights to the Audience — with Decision Cards**  
-Each audience receives a **role-based dashboard** matched to their decision-making cadence, paired with a **Decision Card** they co-create to define triggers, actions, and evidence.  
+**3. Tailor Insights to the Audiences**  
+Each audience receives a **role-based dashboard** matched to their decision-making cadence, paired with a **Decision** they co-create to define triggers, actions, and evidence.  
 
 - **Board (Quarterly)**  
   - **Focus:** Strategic trends, equity shifts, key risks.  
@@ -45,7 +45,7 @@ Each audience receives a **role-based dashboard** matched to their decision-maki
 
 ---
 
-### Example Decision Card — *The Effort Decision*
+### Example Decision  — *The Effort Decision*
 
 - **IF (trigger):** Two cycles ≤2 OR ≥2-point drop in one cycle.  
 - **WHO/WHEN:** Teacher now; HOD if no lift next cycle.  
